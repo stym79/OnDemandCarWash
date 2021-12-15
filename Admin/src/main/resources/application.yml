@@ -1,0 +1,10 @@
+server:
+  port: 8000
+
+spring:
+  data:
+    mongodb:
+      uri:  mongodb+srv://Satyam:Satyam123@cluster0.zfgcs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+      
+  application:
+    name: ADMIN-SERVICE
